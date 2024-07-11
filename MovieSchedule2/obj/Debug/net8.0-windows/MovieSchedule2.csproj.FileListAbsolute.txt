@@ -1,0 +1,200 @@
+C:\Users\user\source\repos\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\MovieSchedule2.exe
+C:\Users\user\source\repos\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\MovieSchedule2.deps.json
+C:\Users\user\source\repos\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\MovieSchedule2.runtimeconfig.json
+C:\Users\user\source\repos\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\MovieSchedule2.dll
+C:\Users\user\source\repos\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\MovieSchedule2.pdb
+C:\Users\user\source\repos\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\Humanizer.dll
+C:\Users\user\source\repos\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\user\source\repos\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\user\source\repos\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\source\repos\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\user\source\repos\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\user\source\repos\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\source\repos\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\source\repos\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\user\source\repos\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user\source\repos\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\user\source\repos\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\user\source\repos\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\user\source\repos\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user\source\repos\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\user\source\repos\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\user\source\repos\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\user\source\repos\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\user\source\repos\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\user\source\repos\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\user\source\repos\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+C:\Users\user\source\repos\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+C:\Users\user\source\repos\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+C:\Users\user\source\repos\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+C:\Users\user\source\repos\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+C:\Users\user\source\repos\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+C:\Users\user\source\repos\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\user\source\repos\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\source\repos\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\source\repos\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\source\repos\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\source\repos\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\source\repos\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\source\repos\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\source\repos\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\source\repos\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\source\repos\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\source\repos\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\source\repos\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\source\repos\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\source\repos\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\source\repos\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\source\repos\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\source\repos\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\source\repos\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\source\repos\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\source\repos\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\source\repos\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\source\repos\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\source\repos\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\source\repos\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\source\repos\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\source\repos\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\source\repos\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\source\repos\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\source\repos\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\source\repos\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\source\repos\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\source\repos\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\source\repos\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\source\repos\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\source\repos\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\source\repos\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\source\repos\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\source\repos\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\source\repos\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\source\repos\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\source\repos\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\source\repos\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\source\repos\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\source\repos\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\source\repos\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\source\repos\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\source\repos\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\source\repos\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\source\repos\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\source\repos\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\source\repos\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\source\repos\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\source\repos\MovieSchedule2\MovieSchedule2\obj\Debug\net8.0-windows\MovieSchedule2.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\MovieSchedule2\MovieSchedule2\obj\Debug\net8.0-windows\MovieSchedule2.Form1.resources
+C:\Users\user\source\repos\MovieSchedule2\MovieSchedule2\obj\Debug\net8.0-windows\MovieSchedule2.Properties.Resources.resources
+C:\Users\user\source\repos\MovieSchedule2\MovieSchedule2\obj\Debug\net8.0-windows\MovieSchedule2.csproj.GenerateResource.cache
+C:\Users\user\source\repos\MovieSchedule2\MovieSchedule2\obj\Debug\net8.0-windows\MovieSchedule2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\MovieSchedule2\MovieSchedule2\obj\Debug\net8.0-windows\MovieSchedule2.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\MovieSchedule2\MovieSchedule2\obj\Debug\net8.0-windows\MovieSchedule2.AssemblyInfo.cs
+C:\Users\user\source\repos\MovieSchedule2\MovieSchedule2\obj\Debug\net8.0-windows\MovieSchedule2.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\MovieSchedule2\MovieSchedule2\obj\Debug\net8.0-windows\MovieSch.821DFEF2.Up2Date
+C:\Users\user\source\repos\MovieSchedule2\MovieSchedule2\obj\Debug\net8.0-windows\MovieSchedule2.dll
+C:\Users\user\source\repos\MovieSchedule2\MovieSchedule2\obj\Debug\net8.0-windows\refint\MovieSchedule2.dll
+C:\Users\user\source\repos\MovieSchedule2\MovieSchedule2\obj\Debug\net8.0-windows\MovieSchedule2.pdb
+C:\Users\user\source\repos\MovieSchedule2\MovieSchedule2\obj\Debug\net8.0-windows\MovieSchedule2.genruntimeconfig.cache
+C:\Users\user\source\repos\MovieSchedule2\MovieSchedule2\obj\Debug\net8.0-windows\ref\MovieSchedule2.dll
+C:\Users\user\source\repos\MovieSchedule2\MovieSchedule2\obj\Debug\net8.0-windows\MovieSchedule2.AddMovie.resources
+D:\School\Software Development\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\MovieSchedule2.exe
+D:\School\Software Development\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\MovieSchedule2.deps.json
+D:\School\Software Development\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\MovieSchedule2.runtimeconfig.json
+D:\School\Software Development\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\MovieSchedule2.dll
+D:\School\Software Development\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\MovieSchedule2.pdb
+D:\School\Software Development\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\Humanizer.dll
+D:\School\Software Development\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\School\Software Development\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+D:\School\Software Development\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+D:\School\Software Development\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\School\Software Development\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+D:\School\Software Development\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\School\Software Development\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\School\Software Development\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\School\Software Development\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\School\Software Development\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\School\Software Development\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\School\Software Development\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\School\Software Development\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\School\Software Development\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\School\Software Development\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\School\Software Development\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+D:\School\Software Development\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\School\Software Development\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\School\Software Development\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\School\Software Development\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+D:\School\Software Development\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+D:\School\Software Development\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+D:\School\Software Development\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+D:\School\Software Development\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+D:\School\Software Development\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+D:\School\Software Development\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+D:\School\Software Development\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+D:\School\Software Development\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+D:\School\Software Development\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+D:\School\Software Development\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+D:\School\Software Development\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+D:\School\Software Development\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+D:\School\Software Development\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+D:\School\Software Development\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+D:\School\Software Development\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\School\Software Development\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+D:\School\Software Development\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+D:\School\Software Development\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\School\Software Development\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\School\Software Development\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\School\Software Development\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\School\Software Development\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\School\Software Development\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\School\Software Development\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\School\Software Development\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\School\Software Development\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\School\Software Development\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\School\Software Development\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\School\Software Development\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\School\Software Development\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\School\Software Development\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\School\Software Development\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\School\Software Development\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\School\Software Development\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\School\Software Development\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\School\Software Development\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\School\Software Development\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\School\Software Development\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\School\Software Development\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\School\Software Development\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\School\Software Development\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\School\Software Development\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\School\Software Development\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\School\Software Development\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\School\Software Development\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\School\Software Development\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\School\Software Development\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\School\Software Development\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\School\Software Development\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\School\Software Development\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\School\Software Development\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\School\Software Development\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\School\Software Development\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\School\Software Development\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\School\Software Development\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\School\Software Development\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\School\Software Development\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\School\Software Development\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\School\Software Development\MovieSchedule2\MovieSchedule2\obj\Debug\net8.0-windows\MovieSchedule2.csproj.AssemblyReference.cache
+D:\School\Software Development\MovieSchedule2\MovieSchedule2\obj\Debug\net8.0-windows\MovieSchedule2.AddMovie.resources
+D:\School\Software Development\MovieSchedule2\MovieSchedule2\obj\Debug\net8.0-windows\MovieSchedule2.Form1.resources
+D:\School\Software Development\MovieSchedule2\MovieSchedule2\obj\Debug\net8.0-windows\MovieSchedule2.Properties.Resources.resources
+D:\School\Software Development\MovieSchedule2\MovieSchedule2\obj\Debug\net8.0-windows\MovieSchedule2.csproj.GenerateResource.cache
+D:\School\Software Development\MovieSchedule2\MovieSchedule2\obj\Debug\net8.0-windows\MovieSchedule2.GeneratedMSBuildEditorConfig.editorconfig
+D:\School\Software Development\MovieSchedule2\MovieSchedule2\obj\Debug\net8.0-windows\MovieSchedule2.AssemblyInfoInputs.cache
+D:\School\Software Development\MovieSchedule2\MovieSchedule2\obj\Debug\net8.0-windows\MovieSchedule2.AssemblyInfo.cs
+D:\School\Software Development\MovieSchedule2\MovieSchedule2\obj\Debug\net8.0-windows\MovieSchedule2.csproj.CoreCompileInputs.cache
+D:\School\Software Development\MovieSchedule2\MovieSchedule2\obj\Debug\net8.0-windows\MovieSch.821DFEF2.Up2Date
+D:\School\Software Development\MovieSchedule2\MovieSchedule2\obj\Debug\net8.0-windows\MovieSchedule2.dll
+D:\School\Software Development\MovieSchedule2\MovieSchedule2\obj\Debug\net8.0-windows\refint\MovieSchedule2.dll
+D:\School\Software Development\MovieSchedule2\MovieSchedule2\obj\Debug\net8.0-windows\MovieSchedule2.pdb
+D:\School\Software Development\MovieSchedule2\MovieSchedule2\obj\Debug\net8.0-windows\MovieSchedule2.genruntimeconfig.cache
+D:\School\Software Development\MovieSchedule2\MovieSchedule2\obj\Debug\net8.0-windows\ref\MovieSchedule2.dll
+D:\School\Software Development\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\MySqlConnector.dll
+D:\School\Software Development\MovieSchedule2\MovieSchedule2\bin\Debug\net8.0-windows\Pomelo.EntityFrameworkCore.MySql.dll
